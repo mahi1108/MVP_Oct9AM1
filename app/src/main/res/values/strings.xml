@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP_Oct9AM</string>
+    <string-array name="type">
+            <item>income</item>
+            <item>expense</item>
+    </string-array>
+</resources>
